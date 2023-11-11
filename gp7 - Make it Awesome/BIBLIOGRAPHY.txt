@@ -1,0 +1,17 @@
+BIBLIOGRAPHY
+
+file: jump.wav
+Taken from the sound tutorial video template in lesson 9.4
+link: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/ReJnf/sound
+
+file: death.wav
+Taken from freesounds.org and used to generate the sound when character dies (I renamed the file to make it easier to add in to code)
+link: https://freesound.org/people/tonsil5/sounds/416838/
+
+file: game-over.wav
+Taken from freesounds.org and used to generate the sound when the character loses all lives (I renamed the file to make it easier to add to code)
+link: https://freesound.org/people/LittleRobotSoundFactory/sounds/270403/
+
+file: music.mp3
+Taken from freesounds.org and used to generate the background music (I renamed the file to make it easier to add to code)
+link: https://freesound.org/people/BenDerhover/sounds/691609/
